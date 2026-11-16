@@ -1,63 +1,13 @@
 {
   "format": "GSUTXO1",
-  "height": 4108407,
+  "height": 4109619,
   "header": "",
   "utxo": 353543,
   "parts": [
     {
-      "name": "proofs_all_0001.wpf1",
-      "size": 25165783,
-      "sha256": "e978d46556a6c5859a21b41c27a083466f2eb63b03f264bca536dd7ccafe86c0"
-    },
-    {
-      "name": "proofs_all_0002.wpf1",
-      "size": 25165783,
-      "sha256": "f912af0602ef7bd4de3f94e7e0a65e5924b44895162d4ea1ed3f65fa5988c913"
-    },
-    {
-      "name": "proofs_all_0003.wpf1",
-      "size": 25165783,
-      "sha256": "0530891da4212200239e109c7e095dc73305c4f01ba8dc506439bf40a8ce25b6"
-    },
-    {
-      "name": "proofs_all_0004.wpf1",
-      "size": 25165783,
-      "sha256": "8121c64170f8471a16f1423f31e91ae4f5a2afba2560cd99f3a6fc394a21dcf2"
-    },
-    {
-      "name": "proofs_all_0005.wpf1",
-      "size": 25165783,
-      "sha256": "9fbe73630207291376c85d6d757035030ce9d72fa2397889968b6bae7ab3c0a9"
-    },
-    {
-      "name": "proofs_all_0006.wpf1",
-      "size": 25165783,
-      "sha256": "508372947fa1427ca47d6e85900c562c74333bd96484b9d12ad9d5e161fffcc1"
-    },
-    {
-      "name": "proofs_all_0007.wpf1",
-      "size": 25165783,
-      "sha256": "920300e8c4657cac12c7e7f7c19222293aa7cbc21497f22438b499c9aa51ab0a"
-    },
-    {
-      "name": "proofs_all_0008.wpf1",
-      "size": 25165783,
-      "sha256": "2c8e7124b4d5b0be746edbe9b0a1d3fdf2fc23412b2055ba05112d30a99c6d32"
-    },
-    {
-      "name": "proofs_all_0009.wpf1",
-      "size": 25165783,
-      "sha256": "b708901a6d950abe16c93f5136e9a9b307633ace138dceb89ce9691f19c3c141"
-    },
-    {
-      "name": "proofs_all_0010.wpf1",
-      "size": 25165783,
-      "sha256": "ae8238c3d155b6e98cf120f7f8622b379a7b7fe38da2855c13c8a9a1d75669da"
-    },
-    {
-      "name": "proofs_all_0011.wpf1",
-      "size": 7493886,
-      "sha256": "25a18aed87001ea8ac187e87ab79bc624d34afdb895d414e6887a1250d26f2d9"
+      "name": "proofs_4109619.wpf1",
+      "size": 1893,
+      "sha256": "e9998d11a3cf850865047f1daf30066d3ff67b98425862faa51c5321d79f5518"
     }
   ]
 }
